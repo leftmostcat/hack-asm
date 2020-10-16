@@ -1,2 +1,2 @@
 # hack-asm
-Implementation of the nand2tetris Hack assembler
+An implementation of the nand2tetris Hack assembler in Rust.
